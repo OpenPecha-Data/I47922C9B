@@ -1,15 +1,16 @@
-id: opecha:P008090
+id: P008090
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG11762
   title: རྭ་སྟོད་བསྡུས་གྲྭ། （ལྷ་ས་པར་མ།）
-  volume:
+  author: ''
+  volumes:
     9e87693f75db453e899cb02d1a5c247e:
       image_group_id: I1KG11764
       title: Volume 1 of rwa stod bsdus grwa/ (lha sa par ma/)
       volume_number: 1
       total_pages: 588
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྭ་སྟོད་བསྡུས་གྲྭ། （ལྷ་ས་པར་མ།）
   author: ''
